@@ -2,12 +2,12 @@
     "backingModels":  [
                           "jarvis-pro-v1"
                       ],
-    "updatedAt":  1785525762470,
+    "updatedAt":  1785526327196,
     "description":  "Pro V1 with downloadable GGUF + LoRA fine-tuning",
     "baseModel":  "jarvis-pro-v1",
     "modelId":  "jarvis-pro-v1",
     "samplesCount":  0,
     "name":  "Jarvis Pro V1",
     "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785525762470
+    "lastSync":  1785526327196
 }
