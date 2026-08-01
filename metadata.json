@@ -1,13 +1,13 @@
-﻿{
-    "backingModels":  [
-                          "jarvis-pro-v1"
-                      ],
-    "updatedAt":  1785526327196,
-    "description":  "Pro V1 with downloadable GGUF + LoRA fine-tuning",
-    "baseModel":  "jarvis-pro-v1",
-    "modelId":  "jarvis-pro-v1",
-    "samplesCount":  0,
-    "name":  "Jarvis Pro V1",
-    "currentVersion":  "jarvis-v1-initial",
-    "lastSync":  1785526327196
+{
+  "modelId": "jarvis-pro-v1",
+  "name": "Jarvis Pro V1",
+  "description": "Pro V1 with downloadable GGUF + LoRA fine-tuning",
+  "baseModel": "jarvis-pro-v1",
+  "backingModels": [
+    "jarvis-pro-v1"
+  ],
+  "currentVersion": "jarvis-v1-1785600566650",
+  "lastSync": 1785600580966,
+  "samplesCount": 62,
+  "updatedAt": 1785600580966
 }
